@@ -12,6 +12,7 @@ email-validator = "*"
 flask-sqlalchemy = "*"
 werkzeug = "*"
 flask-bcrypt = "*"
+flask-login = "*"
 
 [requires]
 python_version = "3.8"
